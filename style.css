@@ -1,3 +1,36 @@
+h1{
+    text-align: center;
+    font-size: 3rem;
+    background-color:rgb(116, 201, 241);
+    color: rgb(109, 0, 251) ;
+    text-decoration: underline;
+    border-radius: 0.5cm;
+}
+body {
+    width: 50%;
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(81, 130, 190, 0.5)
+      ),
+      url("https://cdn.shopify.com/s/files/1/0559/4280/7726/files/Jordan_4_2048x2048.jpg?v=1690209532");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: auto; /* keeps original size */
+  }
+p{
+    font-size: 0.6cm;
+    color: whitesmoke;
+}
+.jordan1{
+    background-color:skyblue;
+    border: solid black;
+    border-radius: 0.5cm;
+}
+.jordan2{
+    background-color:red ;
+    border: solid black;
+    border-radius: 0.5cm;
+}
 /* Write Your CSS Below 
 Colors: 
 - rgb(243, 183, 106)
